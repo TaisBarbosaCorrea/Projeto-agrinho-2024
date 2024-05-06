@@ -1,0 +1,25 @@
+h1{
+    color: rgb(245, 0, 184);
+}
+h2{
+    color:rgb(136, 4, 103);
+}
+
+body{
+    background-color: rgb(255, 212, 244);
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid rgb(255, 171, 244);
+}
+
+footer{
+    border-top: 1px solid rgb(255, 171, 244);
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
